@@ -1,5 +1,5 @@
 # SKYFON Mobile App mockup
-Simple mockup for SKYFON Mobile App - app for competition Predica Challenge.<br>
+Simple mockup for SKYFON Mobile App - app for competition _Predica Challenge_.<br>
 The task of the competition was to create an application to use the intercom.<br>
 My team created an __Android App__ with __Raspberry Pi__ to communicate with intercom.<br>
 Our solution won _Predica Challenge_, more informations on http://predica.pl/challenge :-)<br>
